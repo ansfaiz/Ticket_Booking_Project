@@ -6,7 +6,7 @@ A simple **Java-based train ticket booking application** that allows users to ma
 - 👤 **User Management** – create and manage user profiles.
 - 🚆 **Train Management** – add and manage trains and their details.
 - 🎟 **Ticket Booking** – book tickets for available trains.
-- 📖 **Booking History** – view user booking history usin localdb json based.
+- 📖 **Booking History** – view user booking history using localdb json based.
 
 ## 🛠️ Technologies Used
 - **Java (JDK 8+)**
