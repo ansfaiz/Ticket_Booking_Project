@@ -1,5 +1,11 @@
 package ticket.booking.service;
-
+/*
+ * Copyright (c) 2025 Ansfaiz
+ *
+ * Licensed under the MIT License.
+ * You may obtain a copy of the License at
+ * https://opensource.org/licenses/MIT
+ */
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import ticket.booking.entities.Train;
