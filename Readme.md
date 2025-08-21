@@ -15,13 +15,14 @@ A simple **Java-based train ticket booking application** that allows users to ma
 
 ## 📂 Project Structure
 .
-├── App.class # Main entry point of the application
-├── Train.class # Represents a Train entity
-├── Ticket.class # Represents a Ticket entity
-├── User.class # Represents a User entity
-├── TrainService.class # Handles train-related operations
-├── UserBookingService.class # Handles booking-related operations
-├── UserServiceUtil.class # Utility methods for users
+├── App.java                 # Main entry point of the application
+├── Train.java               # Represents a Train entity
+├── Ticket.java              # Represents a Ticket entity
+├── User.java                # Represents a User entity
+├── TrainService.java        # Handles train-related operations
+├── UserBookingService.java  # Handles booking-related operations
+├── UserServiceUtil.java     # Utility methods for users
+s
 
 ## 🚀 Getting Started
 
