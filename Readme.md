@@ -67,5 +67,7 @@ A simple **Java-based train ticket booking application** that allows users to ma
 Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
 ## 📜 License
-This project is licensed under the MIT License – see the .LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE).
+
+© 2025 MD FAIYAZ ANSARI
 
