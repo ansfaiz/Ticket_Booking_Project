@@ -24,6 +24,7 @@ A simple **Java-based train ticket booking application** that allows users to ma
 ├── UserServiceUtil.java     # Utility methods for users
 
 
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -53,7 +54,7 @@ A simple **Java-based train ticket booking application** that allows users to ma
  - Book tickets for a selected train
 
  - Check your booking history
-##  Learning Outcomes
+## 🎯Learning Outcomes
 - Practiced Java OOP concepts like Encapsulation, Inheritance, Polymorphism  
 - Organized code using services & utilities structure  
 - Learned Git & GitHub workflows and proper documentation
