@@ -32,7 +32,7 @@ A simple **Java-based train ticket booking application** that allows users to ma
 ### Running the Application
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/train-booking-system.git
+   git clone https://github.com/ansfaiz/Ticket_Booking_Project.git
    cd train-booking-system
 2. Compile the source code (if .java files are available):
 
@@ -45,23 +45,27 @@ A simple **Java-based train ticket booking application** that allows users to ma
 ## 📖 Example Usage
  ### Start the app
 
- . Register or login as a user
+ - Register or login as a user
 
- . View available trains
+ - View available trains
 
- . Book tickets for a selected train
+ - Book tickets for a selected train
 
- . Check your booking history
+ - Check your booking history
+##  Learning Outcomes
+- Practiced Java OOP concepts like Encapsulation, Inheritance, Polymorphism  
+- Organized code using services & utilities structure  
+- Learned Git & GitHub workflows and proper documentation
 
 ## 🔮 Future Enhancements
-  . Database integration (MySQL / PostgreSQL)
-  . using Springboot to enhance backend
+  - Database integration (MySQL / PostgreSQL)
+  - using Springboot to enhance backend
 
-  . GUI or Web interface
+  - GUI or Web interface
 
-  . Payment gateway simulation
+  - Payment gateway simulation
 
-  . Seat availability tracking
+  - Seat availability tracking
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo and submit pull requests.
