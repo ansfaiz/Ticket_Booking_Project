@@ -6,7 +6,7 @@ A simple **Java-based train ticket booking application** that allows users to ma
 - 👤 **User Management** – create and manage user profiles.
 - 🚆 **Train Management** – add and manage trains and their details.
 - 🎟 **Ticket Booking** – book tickets for available trains.
-- 📖 **Booking History** – view user booking history.
+- 📖 **Booking History** – view user booking history usin localdb json based.
 
 ## 🛠️ Technologies Used
 - **Java (JDK 8+)**
@@ -22,7 +22,8 @@ A simple **Java-based train ticket booking application** that allows users to ma
 ├── TrainService.java        # Handles train-related operations
 ├── UserBookingService.java  # Handles booking-related operations
 ├── UserServiceUtil.java     # Utility methods for users
-
+├──train.json                #store train data
+├──user.json                 #store user data
 
 
 ## 🚀 Getting Started
@@ -33,7 +34,6 @@ A simple **Java-based train ticket booking application** that allows users to ma
 
 ### Running the Application
 1. Clone this repository:
-   ```bash
    git clone https://github.com/ansfaiz/Ticket_Booking_Project.git
    cd train-booking-system
 2. Compile the source code (if .java files are available):
@@ -42,7 +42,6 @@ A simple **Java-based train ticket booking application** that allows users to ma
     If only .class files are present, skip this step.
 
 3. Run the main application:
-
      java App
 ## 📖 Example Usage
  ### Start the app
