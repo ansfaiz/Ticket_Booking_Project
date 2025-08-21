@@ -22,7 +22,7 @@ A simple **Java-based train ticket booking application** that allows users to ma
 ├── TrainService.java        # Handles train-related operations
 ├── UserBookingService.java  # Handles booking-related operations
 ├── UserServiceUtil.java     # Utility methods for users
-s
+
 
 ## 🚀 Getting Started
 
