@@ -1,4 +1,11 @@
 package ticket.booking;
+/*
+ * Copyright (c) 2025 Ansfaiz
+ *
+ * Licensed under the MIT License.
+ * You may obtain a copy of the License at
+ * https://opensource.org/licenses/MIT
+ */
 
 import ticket.booking.entities.Train;
 import ticket.booking.entities.User;
