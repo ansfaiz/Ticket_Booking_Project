@@ -1,0 +1,13 @@
+# Gradle
+.gradle/
+build/
+
+# Java
+*.class
+*.log
+
+# IntelliJ / Eclipse
+.idea/
+*.iml
+*.classpath
+*.project
