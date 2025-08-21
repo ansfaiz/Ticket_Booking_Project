@@ -1,5 +1,11 @@
 package ticket.booking.entities;
-
+/*
+ * Copyright (c) 2025 Ansfaiz
+ *
+ * Licensed under the MIT License.
+ * You may obtain a copy of the License at
+ * https://opensource.org/licenses/MIT
+ */
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.databind.PropertyNamingStrategy;
 import com.fasterxml.jackson.databind.annotation.JsonNaming;
